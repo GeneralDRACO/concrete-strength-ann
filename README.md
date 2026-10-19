@@ -41,7 +41,7 @@ These results correspond to the current train-test split. Performance may differ
 - Matplotlib
 - Scikit-learn
 - TensorFlow/Keras
-- Jupyter Notebook / Google Colab
+- Google Colab
 
 ## How to Run
 1. Open `Concrete_Strength_ANN.ipynb` in Google Colab or Jupyter Notebook.
