@@ -3,7 +3,7 @@
 ## Project Overview
 This project develops an Artificial Neural Network (ANN) to predict concrete compressive strength using concrete mixture proportions and curing age.
 
-The model is implemented in Python using TensorFlow/Keras in a Jupyter Notebook.
+The model is implemented in Python using TensorFlow/Keras in Google collab/Jupyter Notebook.
 
 ## Dataset
 The project uses the UCI Concrete Compressive Strength dataset.
