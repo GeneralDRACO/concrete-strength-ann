@@ -29,9 +29,9 @@ Input features include cement, blast furnace slag, fly ash, water, superplastici
 
 | Metric | Test Result |
 |---|---:|
-| Mean Absolute Error (MAE) | 4.69 MPa |
-| Root Mean Squared Error (RMSE) | 6.29 MPa |
-| R² Score | 0.851 |
+| Mean Absolute Error (MAE) | 4.51 MPa |
+| Root Mean Squared Error (RMSE) | 5.8 MPa |
+| R² Score | 0.874 |
 
 These results correspond to the current train-test split. Performance may differ on other datasets or splits.
 
